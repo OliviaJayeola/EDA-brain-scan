@@ -5,7 +5,7 @@ University project
 
 This project was part of a data programming course where I got more familiar with data programming in python and SQL. Spent most of this project writing functions to clean and prepare the data, think this was the most complex function I've written so far (see 'subjects that converted' section of coursework2 for more details)
 
-![image](ALZ_1)
+![image](https://github.com/OliviaJayeola/EDA-brain-scan/blob/main/ALZ_1.png)
 
 I plan to reimplement this data processing pipeline in SQL just to get some more practice.
 
